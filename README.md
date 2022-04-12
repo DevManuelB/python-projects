@@ -1,3 +1,3 @@
 # table-of-values-quadratic-function
-This program ask you questions about youre formula
-for youre parable and gives you a table of values and shows the parable.
+Dieses Programm befragt dich für Details über deine Formel,
+gibt dir für diese Formel eine Wertetabelle und zeigt dir den Graphen der Formel.
